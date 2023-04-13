@@ -1,0 +1,29 @@
+.child img{
+   display: inline-block;
+    margin: 2px;
+    height: 3rem;
+    width: 3rem;
+}
+.child{
+    display:  inline-block;
+    margin: 6rem;
+}
+.child p{
+   
+    display: inline-block;
+}
+.inline {
+    display: inline-block;
+}
+.width-15{
+    
+    width: 36%;
+    background-color: rgb(8, 8, 8);
+    height: 12rem;
+}
+.width-85{
+    
+    width: 63%;
+    background-color: rgb(8, 232, 154);
+    height: 12rem;
+}
